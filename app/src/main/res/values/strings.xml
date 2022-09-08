@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EventPlatform</string>
+    <string name="buttonsignIn">Sign In</string>
+    <string name="buttonSignUP">Sign Up</string>
+    <string name="toSignUp">Don\'t have an account yet? Sign Up</string>
+    <string name="email">Enter your Email</string>
+    <string name="password">Password</string>
+    <string name="cnfpass">Confirm Password</string>
+    <string name="evName">Event Name</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="myEvents">My Events</string>
+    <string name="emailattendedEvents">Attended Events</string>
+    <string name="logout">Logout</string>
+    <string name="rsvp">RSVP</string>
+    <string name="event">Event</string>
+    <string name="eventlocation">Location</string>
+
+</resources>
